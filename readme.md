@@ -88,4 +88,14 @@ The confusion matrix helps analyze prediction performance across different emoti
 - Matplotlib
 - Scikit-learn
 
-## Project Structure
+Future Improvements
+
+Train on larger facial emotion datasets such as FER2013
+
+Improve model generalization using advanced augmentation
+
+Deploy the model in a real-time emotion recognition application
+
+Integrate webcam-based real-time prediction
+
+Author
